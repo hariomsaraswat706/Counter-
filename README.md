@@ -5,9 +5,9 @@
 This Smart Contract store a Counter value  and allows user to increase and decrease , reset  it ; 
 
 # Functions 
-Increase Count
-Decrease Count
-Reset Count Zero 
+Increase Count ,
+Decrease Count , 
+Reset Count Zero  ,
 Prevent negativ values 
 
 # state variables 
